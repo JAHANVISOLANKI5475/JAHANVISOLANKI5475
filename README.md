@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img src = "<img src = "https://github.com/rahulbanerjee26/rahulbanerjee26/blob/main/hFZ.gif" width = 50px>
-Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile:" width = 50px>
+<img src = "<img src = "<img src = "https://i.gifer.com/73Wv.gif" width = 50px>
+Hi! My name is Jahanvi. Thank You for taking the time to view my GitHub Profile :smile:" width = 50px>
+
 
 <!--
 **JAHANVISOLANKI5475/JAHANVISOLANKI5475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,6 +12,5 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Machine Learning, Deep Learning, Front - end web development well I would never deny for help.
 - 📫 How to reach me: mail me at jahanvisolankiwork@gmail.com.
 
-![Jahanvi's github stats](https://github-readme-stats.vercel.app/api?username=JAHANVISOLANKI5475&show_icons=true&theme=dark)
+![Jahanvi's github stats](https://github-readme-stats.vercel.app/api?username=JAHANVISOLANKI5475&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHANVISOLANKI5475&layout=dark)](https://github.com/anuraghazra/github-readme-stats)N
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHANVISOLANKI5475&layout=dark)](https://github.com/anuraghazra/github-readme-stats)N

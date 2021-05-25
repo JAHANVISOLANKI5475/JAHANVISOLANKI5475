@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src ="https://github.com/JAHANVISOLANKI5475/JAHANVISOLANKI5475/blob/main/gif/73Wv.gif" width = 50px>
-Hi! My name is Jahanvi. Thank You for taking the time to view my GitHub Profile :smile:
+An aspiring engineering student with a strong affinity towards the IT industry and a great team player. Skilled in Full-Stack Development, Competitive Programmer, C (Programming Language), Python (Programming Language), C++, and Deep Learning. Strong education professional with a Bachelor of Technology - BTech focused in cloud computing from SRM University.
 
 
 <!--

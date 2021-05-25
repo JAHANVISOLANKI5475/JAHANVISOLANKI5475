@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src ="https://i.gifer.com/73Wv.gif" width = 50px>
-Hi! My name is Jahanvi. Thank You for taking the time to view my GitHub Profile :smile:" width = 50px>
+<img src ="https://github.com/JAHANVISOLANKI5475/JAHANVISOLANKI5475/blob/main/gif/73Wv.gif" width = 50px>
+Hi! My name is Jahanvi. Thank You for taking the time to view my GitHub Profile :smile:
 
 
 <!--

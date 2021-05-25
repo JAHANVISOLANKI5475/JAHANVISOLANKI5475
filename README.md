@@ -1,4 +1,6 @@
 ### Hi there 👋
+"https://github.com/rahulbanerjee26/rahulbanerjee26/blob/main/hFZ.gif" width = 50px>
+Hi! My name is Rahul. Thank You for taking the time to view my GitHub Profile :smile:
 
 <!--
 **JAHANVISOLANKI5475/JAHANVISOLANKI5475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

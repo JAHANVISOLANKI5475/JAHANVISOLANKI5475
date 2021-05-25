@@ -12,4 +12,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Machine Learning, Deep Learning, Front - end web development well I would never deny for help.
 - 📫 How to reach me: mail me at jahanvisolankiwork@gmail.com.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JAHANVISOLANKI5475&theme=dark-smoky)](https://git.io/streak-stats)
+![Jahanvi's github stats](https://github-readme-stats.vercel.app/api?username=JAHANVISOLANKI5475&show_icons=true&theme=radical)

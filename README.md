@@ -13,10 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: mail me at jahanvisolankiwork@gmail.com.
 
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JAHANVISOLANKI5475&count_private=true&theme=tokyonight&showicons=true)]()                               
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JAHANVISOLANKI5475&langs_count=5&theme=tokyonight)]()
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAHANVISOLANKI5475&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 

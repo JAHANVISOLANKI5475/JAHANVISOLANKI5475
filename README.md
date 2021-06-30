@@ -6,8 +6,7 @@ An aspiring engineering student with a strong affinity towards the IT industry a
 - 🔭 I’m currently working on projects based on  machine learning and web development.
 - 🌱 I’m currently learning Django and Reactjs.
 - 👯 I’m looking to collaborate on Open Source Organization to build models which can be beneficial to the society.
-- 🤔 I’m looking for help with DSA.
-- 💬 Ask me about Machine Learning, Deep Learning, Front - end web development well I would never deny for help.
+- 💬 Ask me about Machine Learning, front - end web development , DSA well I would never deny for help.
 - 📫 How to reach me: mail me at jahanvisolankiwork@gmail.com.
 
 ![Jahanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAHANVISOLANKI5475&show_icons=true&theme=radical)

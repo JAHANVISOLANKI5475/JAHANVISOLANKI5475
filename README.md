@@ -9,13 +9,6 @@ An aspiring engineering student with a strong affinity towards the IT industry a
 - 💬 Ask me about Machine Learning, front - end web development , DSA well I would never deny for help.
 - 📫 How to reach me: mail me at jahanvisolankiwork@gmail.com.
 
-![Jahanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAHANVISOLANKI5475&show_icons=true&theme=radical)
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAHANVISOLANKI5475" />
-</a>
-
-
 
 
 
